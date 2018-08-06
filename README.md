@@ -1,1 +1,1 @@
-Vue Practice Project-Identicon Generator
+# Vue Practice Project-Identicon Generator
